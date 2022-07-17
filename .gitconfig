@@ -1,0 +1,8 @@
+[user]
+	email = p4wos8000@gmail.com
+	name = Pawel Kawula
+	email = p4wos8000@gmail.com
+[credential]
+	helper = cache --timeout=1209600
+[init]
+	defaultBranch = main
